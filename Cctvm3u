@@ -1,103 +1,76 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/22dbc23373eb541a51aac.jpg" group-title="CCTV YOGYAKARTA", Pasar Bantul
-
 https://mam.jogjaprov.go.id:1937/cctv-bantul/PasarBantul.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/09f26531bff53f58325ab.jpg" group-title="CCTV YOGYAKARTA", Stasiun Tugu
-
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewStasiunTugu.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/5033ec88ad00781741857.jpg" group-title="CCTV YOGYAKARTA", Alun Alun Kidul
-
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunKidul.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/88614025a56b19c930c47.jpg" group-title="CCTV YOGYAKARTA", Nol KM
-
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/99dbf9e4a8c65d0dd15cb.jpg" group-title="CCTV YOGYAKARTA", Bendungan klegen
-
 https://mam.jogjaprov.go.id:1937/cctv-bantul/BendungKlegen.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/b07e5a0cff8d4cdff81eb.jpg" group-title="CCTV YOGYAKARTA", Beringharjo
-
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanBeringharjo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/78e6608dd662e5e573a34.jpg" group-title="CCTV YOGYAKARTA", Tugu
-
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewTugu.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/eae65772883d3f6b80d66.jpg" group-title="CCTV YOGYAKARTA", Depan Garuda
-
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanGaruda.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/46f4e7ca08a9159770e57.jpg" group-title="CCTV YOGYAKARTA", Simpang Tugu
-
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewSimpangTugu.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/99dbf9e4a8c65d0dd15cb.jpg" group-title="CCTV YOGYAKARTA", Pandansari Barat
-
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewPandansariBarat.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/99dbf9e4a8c65d0dd15cb.jpg" group-title="CCTV YOGYAKARTA", Pandansari Timur
-
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewPandansariTimur.stream/playlist.m3u8
 
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/e6d3902e48cc0426996e1.jpg" group-title="CCTV YOGYAKARTA", Malioboro
-
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewMalioboro.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/1d8f37712b6e07c611d61.jpg" group-title="CCTV YOGYAKARTA", Breksi
-
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewBreksi.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/5a4eea04086c896a9b10c.jpg" group-title="CCTV YOGYAKARTA", Candi Sambisari
-
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiSambisari.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/db3ba3f02f49420b41e4a.jpg" group-title="CCTV YOGYAKARTA", Mangunan
-
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewMangunan.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/81717f4a2eacb94928dc7.jpg" group-title="CCTV YOGYAKARTA", Malioboro Mall
-
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanMall.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/fea36f31f2b0d97b0daf2.jpg" group-title="CCTV YOGYAKARTA", Baron Timur
-
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewBaronTimur.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/fea36f31f2b0d97b0daf2.jpg" group-title="CCTV YOGYAKARTA", Baron Barat
-
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewBaronBarat.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/5e77a19999f5df779f4b7.jpg" group-title="CCTV YOGYAKARTA", Kali Biru
-
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewKalibiru.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/e01b502c41827729221a0.jpg" group-title="CCTV YOGYAKARTA", Gunung Merapi
-
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/447b973289b105c396fae.jpg" group-title="CCTV YOGYAKARTA", Prambanan
-
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiPrambanan.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/53252c936f28c1ecb3d92.jpg" group-title="CCTV YOGYAKARTA", Jokteng Wetan
-
 https://mam.jogjaprov.go.id:1937/atcs-kota/JoktengWetan.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/53252c936f28c1ecb3d92.jpg" group-title="CCTV YOGYAKARTA", Jokteng Kulon
-
 https://mam.jogjaprov.go.id:1937/atcs-kota/JoktengKulon.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/fa1b31776fa00458ef09f.jpg" group-title="CCTV YOGYAKARTA", Mirota kampus
-
 https://mam.jogjaprov.go.id:1937/atcs-kota/MirotaKampus.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/5fff346f34eb3ac6bda6e.jpg" group-title="CCTV YOGYAKARTA", RBRA Alun Alun  Sisi Barat
-
 https://mam.jogjaprov.go.id:1937/cctv-kp/RBRA.stream/playlist.m3u8
